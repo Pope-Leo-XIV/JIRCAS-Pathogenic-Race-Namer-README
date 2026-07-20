@@ -5,17 +5,16 @@ A utility app for the designation of the pathogenic races on the basis of infect
 
 # Requirements
 
-Windows operating system
-Microsoft Excel workbook (.xlsx)
-No Python installation is required.
+Windows operating system  
+Microsoft Excel workbook (.xlsx)  
+No Python installation is required.  
 
 # How to Use
-Double-click JIRCAS Pathogenic Race Namer.
-exe.
-Wait for the console window to appear.
-Press Enter to open the file browser.
-Select the Excel workbook to process.
-Wait while the program completes processing.
+Double-click JIRCAS Pathogenic Race Namer.exe  
+Wait for the console window to appear.  
+Press Enter to open the file browser.  
+Select the Excel workbook to process.  
+Wait while the program completes processing.  
 Once the message "Naming completed successfully" appears, locate the generated Excel file in the output folder.
 
 # Output
@@ -28,11 +27,11 @@ The output file is saved in the same folder as the selected input workbook.
 
 At the end of execution, the program displays:
 
-Named lines 
-Excel lookup time
-Algorithm execution time
-Output generation time
-Total execution time
+Named lines  
+Excel lookup time  
+Algorithm execution time  
+Output generation time  
+Total execution time  
 
 These values are for information only and require no user action.
 
